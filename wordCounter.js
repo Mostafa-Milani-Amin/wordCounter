@@ -1,0 +1,1 @@
+const wordCounter = str => str.trim().split(/\s+/).length;
